@@ -2,7 +2,7 @@
 
 Proyecto de auto controlado por arduino
 
-** Beta **
+**Beta**
 
 Parto de una base acrilica para realizar el montaje.
 
